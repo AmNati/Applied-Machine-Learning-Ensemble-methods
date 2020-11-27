@@ -1,5 +1,4 @@
 # Applied-Machine-Learning-Ensemble-methods. A hype or hallelujah
-
 Welcome to my hands-on heterogenous ensemble practice where I try to immerse myself in applied machine learning in Python.
 I explore heterogenous ensemble models(stacking). Using `sklearn.ensemble` method in scikit learn, we create bespoke layers that are stacking-ready.
 
